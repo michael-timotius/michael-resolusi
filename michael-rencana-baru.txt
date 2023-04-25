@@ -5,3 +5,4 @@ rencana baru
 - mempelajari JS
 - mempelajari bahasa inggris
 - web proggaming
+- CSS
