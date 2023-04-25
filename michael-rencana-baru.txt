@@ -1,7 +1,8 @@
 rencana baru
 
 - mempelajari Git
-- mempelajari reach
 - mempelajari JS
 - mempelajari bahasa inggris
 - web proggaming
+- CSS
+- native
